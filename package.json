@@ -1,6 +1,6 @@
 {
   "name": "@netsells/nuxt-auth-module",
-  "version": "5.0.0-dev",
+  "version": "5.0.0",
   "description": "Authentication module for Nuxt.js",
   "repository": "nuxt-community/auth-module",
   "license": "MIT",
