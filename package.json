@@ -2,7 +2,9 @@
   "name": "@netsells/nuxt-auth-module",
   "version": "5.0.1",
   "description": "Authentication module for Nuxt.js",
-  "repository": "git@github.com:netsells/nuxt-auth-module.git",
+  "repository": {
+    "url": "https://github.com/netsells/nuxt-auth-module"
+  },
   "license": "MIT",
   "sideEffects": "false",
   "exports": {
